@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "mailforge",
+    "name": "MAIL Forge",
+    "description": "Forge implementation of MAIL",
+    "version": "${version}",
+    "mcversion": "${mc_version}",
+    "updateUrl": "",
+    "authors": [
+      "amadornes"
+    ],
+    "credits": ""
+  }
+]
